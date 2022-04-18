@@ -1,0 +1,59 @@
+{
+  "name": "sanyar_web_admin",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@reach/dialog": "^0.13.2",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.8.3",
+    "apexcharts": "^3.33.2",
+    "axios": "^0.21.4",
+    "bootstrap": "^5.0.0-beta3",
+    "chart.js": "^3.7.1",
+    "jalali-moment": "^3.3.10",
+    "popper.js": "^1.16.1",
+    "react": "^17.0.1",
+    "react-apexcharts": "^1.3.9",
+    "react-bar-chart": "^0.1.2",
+    "react-chartjs-2": "^4.0.1",
+    "react-charts": "2.0.0-beta.6",
+    "react-confirm-alert": "^2.7.0",
+    "react-datepicker": "^4.6.0",
+    "react-dom": "^17.0.1",
+    "react-export-excel": "^0.5.3",
+    "react-html-table-to-excel": "^2.0.0",
+    "react-minimal-pie-chart": "^8.2.0",
+    "react-multi-date-picker": "^2.9.8",
+    "react-persian-datepicker": "^3.0.2",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "SET PUBLIC_URL=/admin&&react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "proxy": "http://localhost:3001"
+}

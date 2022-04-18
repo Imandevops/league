@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/admin/static/css/main.d258da41.chunk.css",
+    "main.js": "/admin/static/js/main.b81629a2.chunk.js",
+    "main.js.map": "/admin/static/js/main.b81629a2.chunk.js.map",
+    "runtime-main.js": "/admin/static/js/runtime-main.cda49d3d.js",
+    "runtime-main.js.map": "/admin/static/js/runtime-main.cda49d3d.js.map",
+    "static/css/2.d3cfc717.chunk.css": "/admin/static/css/2.d3cfc717.chunk.css",
+    "static/js/2.09c32a89.chunk.js": "/admin/static/js/2.09c32a89.chunk.js",
+    "static/js/2.09c32a89.chunk.js.map": "/admin/static/js/2.09c32a89.chunk.js.map",
+    "index.html": "/admin/index.html",
+    "static/css/2.d3cfc717.chunk.css.map": "/admin/static/css/2.d3cfc717.chunk.css.map",
+    "static/css/main.d258da41.chunk.css.map": "/admin/static/css/main.d258da41.chunk.css.map",
+    "static/js/2.09c32a89.chunk.js.LICENSE.txt": "/admin/static/js/2.09c32a89.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/admin/static/media/IRANSansWeb(FaNum)_UltraLight.e9c28ed7.woff",
+    "static/media/baseInfoLogo.44475496.png": "/admin/static/media/baseInfoLogo.44475496.png",
+    "static/media/contactuser.png": "/admin/static/media/contactuser.805e628a.png",
+    "static/media/font-awesome.css": "/admin/static/media/fontawesome-webfont.6e8ec896.woff",
+    "static/media/image.d7936531.png": "/admin/static/media/image.d7936531.png",
+    "static/media/image2.png": "/admin/static/media/image2.249f31d8.png",
+    "static/media/logo-header.72c71143.png": "/admin/static/media/logo-header.72c71143.png",
+    "static/media/logo.bab60f78.png": "/admin/static/media/logo.bab60f78.png",
+    "static/media/managementAccesLogo.6eea5c88.png": "/admin/static/media/managementAccesLogo.6eea5c88.png",
+    "static/media/managementAccountentLogo.16c7d890.png": "/admin/static/media/managementAccountentLogo.16c7d890.png",
+    "static/media/managementCharityLogo.49a6f2fe.png": "/admin/static/media/managementCharityLogo.49a6f2fe.png",
+    "static/media/managementReportLogo.2fead4d6.png": "/admin/static/media/managementReportLogo.2fead4d6.png",
+    "static/media/managementUserLogo.7d9689e9.png": "/admin/static/media/managementUserLogo.7d9689e9.png",
+    "static/media/winner.632654a9.png": "/admin/static/media/winner.632654a9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cda49d3d.js",
+    "static/css/2.d3cfc717.chunk.css",
+    "static/js/2.09c32a89.chunk.js",
+    "static/css/main.d258da41.chunk.css",
+    "static/js/main.b81629a2.chunk.js"
+  ]
+}

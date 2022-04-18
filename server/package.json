@@ -1,0 +1,44 @@
+{
+  "name": "league-server",
+  "version": "1.0.0",
+  "description": "League server project",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/polwinno-league/server.git"
+  },
+  "keywords": [
+    "League"
+  ], 
+  "author": "Polwinno",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parse": "^0.1.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "joi": "^17.4.2",
+    "joi-objectid": "^4.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.0.11",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.3",
+    "nodemon": "^2.0.7",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.5.5",
+    "winston-mongodb": "^5.0.7"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/polwinno-league/server/issues"
+  },
+  "homepage": "https://gitlab.com/polwinno-league/server#readme",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}
